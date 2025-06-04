@@ -4,7 +4,7 @@ This Python script converts optical prescriptions between **negative cylinder** 
 
 ---
 
-## What it does
+## :eyeglasses: What it does
 
 Given a prescription with 
 - **Sphere**
@@ -21,7 +21,7 @@ It converts from:
   new axis = axis + 90 (- 180 if the calculated axis is over 180)
 
   ---
-  Example:
+  :envelope: Example:
 
   Input (Negative cylinder):
   Sphere: - 2.00
