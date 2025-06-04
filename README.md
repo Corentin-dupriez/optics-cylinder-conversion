@@ -33,11 +33,11 @@ It converts from:
   Cylinder: +1.50
   Axis: 90
 
-  ## Why this matters
+  ## :brain: Why this matters
 
   Some regions or professionals prefer prescriptions in **positive cylinder format** (e.g orthopists), while others use the **negative cylinder format** (e.g optometrists in the US).This tool ensures accurate conversion for interoperability or patient record translation.
 
-  ## How to use
+  ## :rocket: How to use
   1. Clone the repo or copy the script
   ```bash
   git clone https://github.com/Corentin-dupriez/optics-cylinder-conversion.git
