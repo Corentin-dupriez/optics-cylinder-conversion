@@ -15,9 +15,9 @@ It converts from:
 - **Negative cylinder notation** -> **Positive cylinder notation**
 - or the reverse
 
-  The mathematical transformation follows:
-  new sphere = sphere + cylinder
-  new cylinder = -cylinder
+  The mathematical transformation follows:\n
+  new sphere = sphere + cylinder\n
+  new cylinder = -cylinder\n
   new axis = axis + 90 (- 180 if the calculated axis is over 180)
 
   ---
