@@ -45,7 +45,7 @@ It converts from:
     ```
   2. Run the script
   ```bash
-python cylindres.py
+  python cylindres.py
   ```
 
 Follow the on-screen prompts to input values manually or import and use the functions in your own Python project.
